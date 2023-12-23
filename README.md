@@ -4,6 +4,8 @@
 <h3>JAVA Spring Boot</h3>
 
   - [Crud Application](https://github.com/Olowo25/PersonalCrud.git)
+  - [Simple Mvc Application](https://github.com/Olowo25/PersonalCrud.git)
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
