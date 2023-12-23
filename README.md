@@ -14,8 +14,12 @@
   - [Simple Mvc Application](https://github.com/Olowo25/PersonalCrud.git)
   - [My First Django practice](https://github.com/Olowo25/PersonalCrud.git)
   - [Django Crud](https://github.com/Olowo25/PersonalCrud.git)
-  - 
+    
 <h3>JAVA  (JSP & Servlet)</h3>
+  - [Crud Application](https://github.com/Olowo25/PersonalCrud.git)
+  - [Simple Mvc Application](https://github.com/Olowo25/PersonalCrud.git)
+  - [My First Django practice](https://github.com/Olowo25/PersonalCrud.git)
+  - [Django Crud](https://github.com/Olowo25/PersonalCrud.git)
   - [Crud Application](https://github.com/Olowo25/PersonalCrud.git)
   - [My School Website Project (Full Stack)](https://github.com/Olowo25/PersonalCrud.git)
   
