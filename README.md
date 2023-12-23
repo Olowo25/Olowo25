@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pelumi! <br/><a href="https://github.com/joshmadakor1">Junior Java and Python Programmer</a>, and <a href="https://www.linkedin.com/in/joshmadakor/">Web Developer</a>A young creative and technical Software and Website Developer with three years experience of writing, reviewing and fixing codes.</h1>
+<h1>Hi, I'm Pelumi! <br/><a href="https://github.com/joshmadakor1">I'm a Junior Java and Python Programmer</a>, and <a href="https://www.linkedin.com/in/joshmadakor/">Web Developer</a> ,young creative and technical Software and Website Developer with three years experience of writing, reviewing and fixing codes. Getting better and aspiring to be an expert in the Information Technology world</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
