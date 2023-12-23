@@ -1,9 +1,9 @@
 <h1>Hi, I'm Pelumi </h1><br/><h3><a href="https://github.com/joshmadakor1">I'm a Junior Java and Python Programmer</a>, and <a href="https://www.linkedin.com/in/joshmadakor/">Web Developer</a> ,young creative and technical Software and Website Developer with three years experience of writing, reviewing and fixing codes. Getting better and aspiring to be an expert in the Information Technology world</h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+<h3>JAVA Spring Boot</h3>
 
-- <b>Crud Application sing Spring Boot</b>
-  - [Personal Crud](https://github.com/Olowo25/PersonalCrud.git)
+  - [Crud Application](https://github.com/Olowo25/PersonalCrud.git)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
