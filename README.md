@@ -6,8 +6,9 @@
   - [Crud Application](https://github.com/Olowo25/PersonalCrud.git)
   - [Simple Mvc Application](https://github.com/Olowo25/PersonalCrud.git)
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+<h3>Python  (Django)</h3>
+  - [My First Django practice](https://github.com/Olowo25/PersonalCrud.git)
+    - [Django Crud](https://github.com/Olowo25/PersonalCrud.git)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
