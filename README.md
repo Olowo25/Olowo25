@@ -5,15 +5,17 @@
 
   - [Crud Application](https://github.com/Olowo25/PersonalCrud.git)
   - [Simple Mvc Application](https://github.com/Olowo25/SimpleMvcApplication.git)
-  - [Batis Project](https://github.com/Olowo25/PersonalCrud.git)
+  - [Batis Project](https://github.com/Olowo25/FirstMyBatisProject.git)
   - [My Music Project](https://github.com/Olowo25/PersonalCrud.git)
+  - [Hibernate Application](https://github.com/Olowo25/Olowolayemo-Pelumi.git)
+
 
 
 <h3>Python  (Django)</h3>
 
   - [Crud Application](https://github.com/Olowo25/PersonalCrud.git)
   - [Simple Mvc Application](https://github.com/Olowo25/PersonalCrud.git)
-  - [My First Django practice](https://github.com/Olowo25/PersonalCrud.git)
+  - [My First Django practice](https://github.com/Olowo25/Django.git)
   - [Django Crud](https://github.com/Olowo25/PersonalCrud.git)
 
 
