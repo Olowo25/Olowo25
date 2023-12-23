@@ -4,7 +4,8 @@
 <h3>JAVA Spring Boot</h3>
 
   - [Crud Application](https://github.com/Olowo25/PersonalCrud.git)
-  - [Simple Mvc Application](https://github.com/Olowo25/PersonalCrud.git)
+  - [Simple Mvc Application]((https://github.com/Olowo25/SimpleMvcApplication.git)
+  - [Batis Project](https://github.com/Olowo25/PersonalCrud.git)
   - [My Music Project](https://github.com/Olowo25/PersonalCrud.git)
 
 
