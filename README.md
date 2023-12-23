@@ -9,6 +9,7 @@
   - [My Music Project](https://github.com/Olowo25/PersonalCrud.git)
   - [Hibernate Application](https://github.com/Olowo25/Olowolayemo-Pelumi.git)
   - [Mapping Practice](https://github.com/Olowo25/github.portfolio.git)
+  - [Data JPA](https://github.com/Olowo25/springboot-practice.git)
 
 
 
@@ -27,9 +28,7 @@
   - [My School Website Project (Full Stack)](https://github.com/Olowo25/PersonalCrud.git)
   
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on perfecting my knowledge and skills in the use of springboot and Django as fameword indeveloping a website
+- 🔭 I’m currently working on perfecting my knowledge and skills in the use of springboot and Django as framework in developing a website
 - 🌱 I’m currently learning the use of Docker
 - 🤔 I’m looking for help with Data Analysis and Machine Learning
 - ⚡ Fun fact: I love tech and i hope to achive my dream in becoming an expert in this Field
